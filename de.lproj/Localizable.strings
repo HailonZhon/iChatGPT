@@ -1,0 +1,68 @@
+/* 
+  Localizable.strings
+  iChatGPT
+
+  Created by HTC on 2023/3/19.
+  Copyright © 2023 37 Mobile Games. All rights reserved.
+*/
+
+"Loading.." = "Laden..";
+"Just ask.." = "Fragen Sie einfach..";
+"Re-question" = "Frage erneut stellen";
+"Copy Question" = "Frage kopieren";
+"Copy Answer" = "Antwort kopieren";
+"Copy Question and Answer" = "Frage und Antwort kopieren";
+"Copy Question to Inputbox" = "Frage in Eingabefeld kopieren";
+"Delete Question" = "Frage löschen";
+"Delete All" = "Alle löschen";
+"Settings" = "Einstellungen";
+"Please enter OpenAI Key" = "Bitte geben Sie den API-Schlüssel ein";
+"OpenAI Key cannot be empty" = "API-Schlüssel darf nicht leer sein";
+"Save Key" = "Schlüssel speichern";
+"Developer: 37 Mobile iOS Tech Team\nGitHub: https://github.com/37iOS/iChatGPT" = "Entwickler: 37 Mobile iOS Tech Team\nGitHub: https://github.com/37MobileTeam/iChatGPT";
+"Open a new conversation" = "Ein neues Gespräch öffnen";
+"The current chat log will be saved and closed, and a new chat session will be created." = "Das aktuelle Chat-Protokoll wird gespeichert und geschlossen, und eine neue Chat-Sitzung wird erstellt.";
+"Create" = "Erstellen";
+"Re-ask" = "Erneut fragen";
+"Re-request the last question." = "Die letzte Frage erneut anfordern.";
+"OK" = "OK";
+"Clear current conversation" = "Aktuelles Gespräch löschen";
+"Clears the current conversation and deletes the saved conversation history." = "Löscht das aktuelle Gespräch und löscht den gespeicherten Gesprächsverlauf.";
+"Clear" = "Löschen";
+"No conversations" = "Keine Gespräche";
+"Delete Chat" = "Chat löschen";
+"Are you sure you want to delete this chat?" = "Möchten Sie diesen Chat wirklich löschen?";
+"Delete" = "Löschen";
+"Chat History" = "Chat-Verlauf";
+"Coming soon.." = "In Kürze verfügbar..";
+"Room Settings" = "Raumeinstellungen";
+"Save" = "Speichern";
+"Current Chat" = "Aktueller Chat";
+"Share" = "Teilen";
+"Choose a sharing format" = "Wählen Sie ein Freigabeformat";
+"Image" = "Bild";
+"PDF" = "PDF";
+"Room Name" = "Raumname";
+"The name of the room" = "Der Name des Chatraums";
+"Prompt" = "Prompt";
+"Prompt description." = "Bitten Sie ChatGPT, eine bestimmte Rolle zu übernehmen, z.B. 'Ich möchte, dass du die Rolle von xxx Interviewer spielst.'";
+"Prompt text to generate contextual information for the corresponding text." = "Aufforderungstext, um kontextbezogene Informationen für den entsprechenden Text zu generieren.";
+"Temperature" = "Temperature";
+"What sampling temperature to use, between 0 and 2. Higher values like 0.8 will make the output more random, while lower values like 0.2 will make it more focused and deterministic." = "Welche Abtasttemperatur zwischen 0 und 2 verwenden. Höhere Werte wie 0,8 werden die Ausgabe zufälliger gestalten, während niedrigere Werte wie 0,2 sie konzentrierter und deterministischer machen.";
+"The default temperature is 0.7" = "Die Standard-Temperature beträgt 0.7";
+"How much context information is carried when sending a dialog." = "Wie viel Kontextinformationen werden beim Senden eines Dialogs übermittelt.";
+"Default is the last 3 conversations." = "Standardmäßig sind es die letzten 3 Gespräche.";
+"Temperature is between 0 and 2." = "Die Temperature liegt zwischen 0 und 2.";
+"History message count must be an integer greater than or equal to 0." = "Die Anzahl der Nachrichten im Verlauf muss eine ganze Zahl größer oder gleich 0 sein.";
+"Settings have been updated~" = "Einstellungen wurden aktualisiert~";
+"Tips" = "Tipps";
+"Select Room API Model" = "Wählen Sie das Chatraum-API-Modell";
+"Deafult API Model" = "Standardmodell für neue Chaträume";
+"For example: " = "Zum Beispiel:";
+"Use Default" = "Standardwert verwenden";
+"Current use Key: " = "Derzeit im Einsatz:";
+"API Request timeout (seconds)" = "API-Anforderungszeitüberschreitung (Sekunden)";
+"API host format is incorrect!" = "API-Host-Format ist falsch!";
+"API timeout must be a number" = "Zeitüberschreitung muss eine Zahl sein";
+"Chats Streaming" = "Dialog-Chat-Stream";
+"Use streaming conversations" = "Verwenden Sie die Streaming-Ausgabe";
